@@ -18,5 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || github.token }}
           filename: github-metrics.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           config_timezone: Asia/Seoul

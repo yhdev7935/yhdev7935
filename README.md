@@ -6,18 +6,18 @@
   </a>
 </p>
 
-<img alt="Yongha Bae banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:1f2937&text=Yongha%20Bae&fontColor=f9fafb&fontSize=44&animation=fadeIn&fontAlignY=36&desc=Junior%20Data%20Engineer&descAlignY=60" width="100%" />
+<img alt="Yongha Bae banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:1f2937&text=Yongha%20Bae&fontColor=f9fafb&fontSize=44&animation=fadeIn&fontAlignY=36&desc=Junior%20Data%20Engineer&descAlignY=60" width="94%" />
  
 <p><strong>문제를 먼저 정의하고, 데이터 파이프라인을 실험과 벤치마크로 개선하는 데이터 엔지니어 배용하입니다.</strong></p>
 
 <p>
   <a href="https://yhdev7935.github.io/blog/">
-    <img alt="Visit Yongha's Lab" src="https://img.shields.io/badge/Visit-Yongha%27s%20Lab-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img alt="Visit Yongha's Lab" src="https://img.shields.io/badge/Visit-Yongha%27s%20Lab-0f172a?style=flat-square&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img alt="GitHub metrics" src="./github-metrics.svg" width="100%" />
+  <img alt="GitHub isometric commit calendar" src="./github-metrics.svg" width="92%" />
 </p>
 
 <p>
