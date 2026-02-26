@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img alt="GitHub metrics graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yhdev7935&theme=github-compact&hide_border=true" width="100%" />
+  <img alt="GitHub metrics" src="./github-metrics.svg" width="100%" />
 </p>
 
 <p>
