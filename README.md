@@ -18,10 +18,10 @@
 
 <table>
   <tr>
-    <td width="78%">
+    <td width="50%" align="center">
       <img alt="GitHub isometric commit calendar" src="./github-metrics.svg" width="100%" />
     </td>
-    <td width="22%" align="center">
+    <td width="50%" align="center">
       <a href="https://solved.ac/qodydgk8624">
         <img alt="Solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qodydgk8624" width="100%" />
       </a>
