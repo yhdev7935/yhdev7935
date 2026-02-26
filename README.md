@@ -1,8 +1,10 @@
 <div align="center">
+
+<img alt="Yongha's Lab banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:1f2937&text=Yongha%27s%20Lab&fontColor=f9fafb&fontSize=44&animation=fadeIn&fontAlignY=36&desc=Data%20Engineer%20%7C%20Pipeline%20Benchmarking&descAlignY=60" width="100%" />
  
-## **🚧 UNDER CONSTRUCTION 🚧**
-  
-### I don't have anything to show you yet, can you wait a little longer?
+<p><strong>문제를 먼저 정의하고, 데이터 파이프라인을 실험과 벤치마크로 개선하는 데이터 엔지니어 배용하입니다.</strong></p>
+
+<p><a href="https://yhdev7935.github.io/blog/">Yongha's Lab</a> · 설계 근거와 실험 기록</p>
 
 <p>
   <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yhdev7935&theme=github_dark" width="49%" />
