@@ -16,14 +16,17 @@
   </a>
 </p>
 
-<p>
-  <img alt="GitHub isometric commit calendar" src="./github-metrics.svg" width="92%" />
-</p>
-
-<p>
-  <a href="https://solved.ac/qodydgk8624">
-    <img alt="Solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qodydgk8624" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="78%">
+      <img alt="GitHub isometric commit calendar" src="./github-metrics.svg" width="100%" />
+    </td>
+    <td width="22%" align="center">
+      <a href="https://solved.ac/qodydgk8624">
+        <img alt="Solved.ac profile" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qodydgk8624" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
